@@ -1,0 +1,11 @@
+we have a database called 'airlinereservation' in that we have a airlinedb table with the following attributes :
+
+Attributes	  Data-types
+
+1. Customer_ID 	              (int)
+2.Customer_Name 	(String)
+3.Father_Name		(String)
+4.Gender		(String)
+5.DOB			(String)
+6.Phone			(String)
+7.Address
